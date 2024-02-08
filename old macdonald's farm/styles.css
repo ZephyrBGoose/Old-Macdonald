@@ -91,8 +91,11 @@ footer {
     padding: 0 2%;
     border: 1rem solid #D89825;
     border-radius: 10%;
-    outline: 0.25rem solid #D501B4;
-    outline-offset: -1rem;
+    outline: 1rem solid #D501B4;
+    outline-offset: -2rem;
+    margin-bottom: 5%;
+    background-color: #4E3502;
+    color:#9BCD86;
 }
 
 footer p {
